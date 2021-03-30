@@ -37,11 +37,11 @@ Hiller Law is a boutique law firm. Because of Mr. Hiller’s skill set and exper
 * Assessment lien foreclosure and litigation
 * Mechanics’ liens
 * Eviction/writ of possession
-* Low-cost uncontested judgments
+* Low-cost uncontested judgment options
 
 Mr. Hiller is also pleased to offer mediation services in bankruptcy and related disputes, as well as in resolution of commercial cases.
 
-Hiller Law strives to exceed being a mere business and gives back to the community in so many ways. Please visit our Community Involvement page for more information on giving back.
+Hiller Law strives to exceed being a mere business and gives back to the community in so many ways. Please visit the Community Involvement page for more information on giving back.
 
 Adam Hiller and Brian Arban formed the firm in 2011 under the name Hiller & Arban, LLC. It became Hiller Law, LLC in April 2017 when Mr. Arban left the firm.
 
@@ -56,7 +56,7 @@ Mr. Hiller earned a B.A. with honors from Claremont McKenna College in 1993, as 
 
 Mr. Hiller has been a member of numerous legal organizations, including the American Bankruptcy Institute, the Bankruptcy Bar Association of Maryland, the Delaware Bankruptcy Inn of Court, the American Bar Association’s Business Law Section (Bankruptcy Committee), and the Arts Committee of the Delaware State Bar Association. He participated in a subcommittee of the Delaware Local Rules Committee in drafting certain amendments to the Delaware local rules.
 
-Mr. Hiller has a very strong commitment to fulfill his ethical obligations for pro bono service to the community. Since entering private practice nearly 20 years ago, he has represented at least one client almost every year referred by Maryland Volunteer Lawyers Services or Delaware Volunteer Lawyers Services in a case without receiving a fee. Moreover, for many years he served as general counsel (on a pro bono basis) to a non-profit organization called the Maryland Society for Sight, which provides vision-screening and eyeglasses to the indigent, as well as sight-related services to the blind and visually impaired.
+Mr. Hiller has a very strong commitment to fulfill his ethical obligations for pro bono service to the community. Since entering private practice over 20 years ago, he has represented at least one client almost every year referred by Maryland Volunteer Lawyers Services or Delaware Volunteer Lawyers Services in a case without receiving a fee. Moreover, for many years he served as general counsel (on a pro bono basis) to a non-profit organization called the Maryland Society for Sight, which provides vision-screening and eyeglasses to the indigent, as well as sight-related services to the blind and visually impaired.
 
 Mr. Hiller serves as mentors for less senior lawyers, law students, and law clerks in the community. The firm also regularly accepts appointments from referral agencies to provide pro bono assistance to those that may be unable to afford to pay an attorney.
 
