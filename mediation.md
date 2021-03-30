@@ -5,7 +5,7 @@ background: grey
 permalink: /mediation
 ---
 
-The United States Bankruptcy Court for the District of Delaware has entered standing orders requiring parties in certain bankruptcy litigation to participate in mediation prior to trial. The firm’s managing partner, Adam Hiller, is on the Register of Approved Mediators maintained by the United States Bankruptcy Court for the District of Delaware.
+The United States Bankruptcy Court for the District of Delaware has entered standing orders requiring parties in certain bankruptcy litigation to participate in mediation prior to trial. The firm’s managing partner, Adam Hiller, was previously on the Register of Approved Mediators maintained by the United States Bankruptcy Court for the District of Delaware.
 
 Mr. Hiller has extensive experience in bankruptcy litigation—and especially in preference litigation—and has represented literally hundreds of clients in these matters in the last two decades, both from the plaintiff’s side and the defendant’s.
 
