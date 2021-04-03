@@ -40,5 +40,8 @@ header.masthead {
         line-height: 4.7rem;
       }
     }
+    &.page {
+      background-position-y: -11rem;
+    }
   }
 }
