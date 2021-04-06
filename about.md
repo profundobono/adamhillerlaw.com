@@ -8,16 +8,16 @@ permalink: /about
 Hiller Law is a boutique law firm. Because of Mr. Hiller’s skill set and experience, the firm brings to the table the strength, professionalism, and dedication of a large firm, but with the personalized attention and rate structure of a smaller firm.
 
 #### Bankruptcy And Insolvency:
-* Chapter 11 small business debtor cases
+* Chapter 11 small business debtor cases (including subchapter 5 SBRA cases)
 * Chapter 11 individual cases
 * Chapter 7 corporate debtors
+* Motions for relief from the automatic stay
 * Official committees in Chapter 11
 * Secured creditors, such as banks
 * Trade vendors
 * Lessors, landlords, and contract parties
 * Other unsecured creditors
 * Former and present employees of the debtor
-* Motions for relief from the automatic stay
 * Purchasers of assets out of bankruptcy estates
 * Preference/avoidance litigation
 * Administrative claims and proofs of claim
