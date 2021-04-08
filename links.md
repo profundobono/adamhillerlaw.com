@@ -32,15 +32,15 @@ The websites listed on this page are not part of or endorsed by the firm, and ma
 * [Federal Rules of Evidence](http://www.law.cornell.edu/rules/fre/){:target="_blank"}
 * [Local Rules for the U.S. District Court for the District of Delaware](http://www.ded.uscourts.gov/Forms/LocalRules/LocalRulesCivil_4-30-10.pdf){:target="_blank"}
 * [Delaware Code Online](http://delcode.delaware.gov/){:target="_blank"}
-* [Delaware Rules of Professional Conduct](http://courts.state.de.us/rules/pdf/DLRPC-LN.pdf){:target="_blank"}
-* [Delaware Superior Court Rules](http://courts.delaware.gov/rules/superior_civil_rules_2014.pdf){:target="_blank"}
+* [Delaware Rules of Professional Conduct](https://courts.delaware.gov/rules/pdf/2020DelawareLawyersRulesProfessionalConduct.pdf){:target="_blank"}
+* [Delaware Superior Court Rules](https://courts.delaware.gov/rules/index.aspx#superior){:target="_blank"}
 * [Delaware Supreme Court Rules](http://courts.delaware.gov/rules/pdf/SupremeCourtRules.pdf){:target="_blank"}
 
 ### Important Government Agencies
 
 * [Delaware Division of Corporations](https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx){:target="_blank"}
-* [Recorder of Deeds for New Castle County](http://www.ncc-deeds.com/recclkshr/default.asp){:target="_blank"}
-* [Recorder of Deeds for Kent & Sussex County](https://de.uslandrecords.com/){:target="_blank"}
+* [Recorder of Deeds for New Castle County](https://www.nccde.org/136/Recorder-of-Deeds){:target="_blank"}
+* [Recorder of Deeds for Kent & Sussex County](https://de.uslandrecords.com/delr/DelrApp/index.jsp){:target="_blank"}
 * [Military search for Servicemembers Civil Relief Act](https://www.servicememberscivilreliefact.com/){:target="_blank"}
 
 ### Organizations
