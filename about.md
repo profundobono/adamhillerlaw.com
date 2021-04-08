@@ -8,16 +8,17 @@ permalink: /about
 Hiller Law is a boutique law firm. Because of Mr. Hiller’s skill set and experience, the firm brings to the table the strength, professionalism, and dedication of a large firm, but with the personalized attention and rate structure of a smaller firm.
 
 #### Bankruptcy And Insolvency:
-* Chapter 11 small business debtor cases
+* Chapter 11 small business debtor cases (incl. Subchapter V SBRA cases)
 * Chapter 11 individual cases
 * Chapter 7 corporate debtors
 * Official committees in Chapter 11
+* Motions for relief from the automatic stay
 * Secured creditors, such as banks
 * Trade vendors
 * Lessors, landlords, and contract parties
 * Other unsecured creditors
+* Personal injury claimants in bankruptcy cases
 * Former and present employees of the debtor
-* Motions for relief from the automatic stay
 * Purchasers of assets out of bankruptcy estates
 * Preference/avoidance litigation
 * Administrative claims and proofs of claim
@@ -41,7 +42,7 @@ Hiller Law is a boutique law firm. Because of Mr. Hiller’s skill set and exper
 
 Mr. Hiller is also pleased to offer mediation services in bankruptcy and related disputes, as well as in resolution of commercial cases.
 
-Hiller Law strives to exceed being a mere business and gives back to the community in so many ways. Please visit our Community Involvement page for more information on giving back.
+Hiller Law strives to exceed being a mere business and gives back to the community in so many ways. Please visit the Community Involvement page for more information on giving back.
 
 Adam Hiller and Brian Arban formed the firm in 2011 under the name Hiller & Arban, LLC. It became Hiller Law, LLC in April 2017 when Mr. Arban left the firm.
 
