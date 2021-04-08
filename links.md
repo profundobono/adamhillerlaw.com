@@ -46,8 +46,7 @@ The websites listed on this page are not part of or endorsed by the firm, and ma
 ### Organizations
 
 * [American Bankruptcy Institute](http://www.abiworld.org/){:target="_blank"}
-* [Delaware Bankruptcy Inn of Court](http://www.innsofcourt.org/Content/InnContent.aspx?Id=1486){:target="_blank"}
-* [DSBA, Bankruptcy Law Section](https://www.dsba.org/sections-committees/sections-of-the-bar/bankruptcy-law/){:target="_blank"}
+* [Delaware Bankruptcy Inn of Court](https://inns.innsofcourt.org/for-members/inns/the-delaware-bankruptcy-american-inn-of-court.aspx){:target="_blank"}
 * [IWIRC Delaware Network](http://www.iwirc.org/networks/delaware){:target="_blank"}
 
 ### Asset Research Tools
@@ -60,7 +59,6 @@ The websites listed on this page are not part of or endorsed by the firm, and ma
 ### For Lawyers That Like To Cook
 
 * [The Recipe Circus](http://www.recipecircus.com/){:target="_blank"}
-* [Mimi’s Cyber-Kitchen](http://www.cyber-kitchen.com/){:target="_blank"}
 
 
 Important Note: These links are intended as aids to help readers identify internet resources that may be of interest. These resources are not under the control of the firm, and the firm is not responsible for the contents of any of these unaffiliated, third-party resources. 
