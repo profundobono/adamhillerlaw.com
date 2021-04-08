@@ -4,6 +4,7 @@ gemspec
 
 # Delete the following lines if not on Windows: 
 # Performance-booster for watching directories on Windows
-gem "wdm", ">= 0.1.0" if Gem.win_platform?
-gem "jekyll-seo-tag", "~> 2.7"
-gem "jekyll-sitemap", "~> 1.4"
+gem "jekyll-seo-tag"
+gem "jekyll-sitemap"
+gem 'jekyll-redirect-from'
+

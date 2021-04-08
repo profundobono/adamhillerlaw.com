@@ -3,6 +3,8 @@ layout: page
 title: About Adam Hiller And The Firm
 background: grey
 permalink: /about
+redirect_from:
+    - /about-adam-hiller-and-the-firm/
 ---
 ### The Firm
 Hiller Law is a boutique law firm. Because of Mr. Hiller’s skill set and experience, the firm brings to the table the strength, professionalism, and dedication of a large firm, but with the personalized attention and rate structure of a smaller firm.
