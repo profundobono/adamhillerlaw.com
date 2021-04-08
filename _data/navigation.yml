@@ -1,15 +1,15 @@
 nav:
   - title: "About"
-    url: about
+    url: /about
 
   - title: "Community"
-    url: community
+    url: /community
     
   - title: "Mediation"
-    url: mediation
+    url: /mediation
 
   - title: "Links"
-    url: links
+    url: /links
 
   - title: "Contact"
     section: contact
